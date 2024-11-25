@@ -1,6 +1,6 @@
 # 3D Motion - E-commerce Inmersivo
 
-Organización el desarrollo de aplicaciónes web de comercio electrónico inmersivo.
+Organización para el desarrollo de aplicaciónes web de comercio electrónico inmersivo.
 
 ## Propósito de la Organización
 
